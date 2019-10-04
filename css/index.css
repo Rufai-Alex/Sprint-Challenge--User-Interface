@@ -363,3 +363,8 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.abouth {
+    border-bottom: 2px dashed black;
+    margin-bottom: 30px;
+}
